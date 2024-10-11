@@ -1,5 +1,3 @@
-# drd
-This repository is the implementation of the course project CS253.
 # Requirements
 ```python
 pip install django
@@ -7,8 +5,8 @@ pip install Pillow
 ```
 # Installation
 ```bash
-git clone git@github.com:CS253-The-Dorm-Room-Dealer/dormroomdealer.git # ssh
-cd dormroomdealer/project/
+git clone git@github.com:itsravipatel/dorm-room-dealer.git # ssh
+cd dorm-room-dealer/project/
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
